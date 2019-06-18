@@ -1,8 +1,12 @@
 # Pimp My Pantry
-Store recipes and grocery inventory so I can plan and prepare for upcoming meals
+Store recipes and grocery inventory so I can plan and prepare for upcoming meals.
+- Offline-first
+- Syncs with other household members via CouchDB
 
 ## Research
-UPC & QR Code scanners
+- UPC & QR Code scanners
+- Scan same items at different stores to compare prices 
+- Track above prices over time?
 
 ## Pages to Build
 - Form to input ingredients in stock
